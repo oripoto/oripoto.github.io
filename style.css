@@ -33,3 +33,7 @@ img {
 .sidebar-img {
 	width: 100%;
 }
+
+.sidebar-img:hover {
+	-webkit-filter: invert(100%) !important;
+}

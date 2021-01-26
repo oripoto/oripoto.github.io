@@ -1,0 +1,35 @@
+html, body {
+	background-color: white;
+	margin: 0px;
+}
+
+img {
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+.pixelated {
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 95%
+}
+
+.content {
+	float: left;
+	width: 67%;
+}
+
+.sidebar {
+	float: left;
+	width: 33%;
+}
+
+.sidebar-img {
+	width: 100%;
+}

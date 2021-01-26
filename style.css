@@ -3,11 +3,6 @@ html, body {
 	margin: 0px;
 }
 
-img {
-	image-rendering: crisp-edges;
-	image-rendering: pixelated;
-}
-
 .pixelated {
 	image-rendering: crisp-edges;
 	image-rendering: pixelated;

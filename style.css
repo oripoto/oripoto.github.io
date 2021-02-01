@@ -1,6 +1,8 @@
 html, body {
 	background-color: white;
 	margin: 0px;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+	font-size: 14px;
 }
 
 .pixelated {
@@ -12,7 +14,11 @@ html, body {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	height: 95%
+	width: 95%
+}
+
+.center-text {
+	text-align: center;
 }
 
 .content {
@@ -27,6 +33,7 @@ html, body {
 
 .sidebar-img {
 	width: 100%;
+	border: 0px;
 }
 
 .sidebar-img:hover {
